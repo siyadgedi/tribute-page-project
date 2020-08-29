@@ -1,0 +1,58 @@
+#title {
+    background: black;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding: 3em;
+    margin: -0.5em;
+    margin-bottom: 0em;
+}
+
+#img-div {
+    text-align: center;
+    margin:-0.5em;
+    margin-bottom: 2em;
+    
+}
+
+#main {
+    background-color: white;
+}
+
+#trait {
+    font-size: large;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+}
+
+#img-caption, #tribute-info {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#tribute-info {
+    text-align: center;
+    background-color: honeydew;
+    font-size: large;
+    width: 100%;
+    margin: -1em;
+    padding-right: 1.3em;
+    padding-bottom: 2em;
+    padding-top:1em;
+}
+
+
+#credit {
+    padding: 1em;
+    margin: -0.5em;
+    background: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#siyad {
+    color:white;
+}
